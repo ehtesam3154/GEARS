@@ -1,0 +1,10 @@
+# GEARS — geometry-first spatial single-cell reconstruction
+torch>=2.0            # match your CUDA build (validated on 2.1 / 2.7)
+numpy
+scipy
+scikit-learn
+pandas
+scanpy
+anndata
+matplotlib
+lightning>=2.0        # only needed for the multi-GPU (--devices>1) training path

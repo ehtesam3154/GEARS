@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.h5ad
+*.csv
+*.log
+*.png
+*.pdf
+.ipynb_checkpoints/
+# data + trained models are hosted externally (see README) — never commit them
+GEARS_data_upload/
+data/
+server_mousebrain/
