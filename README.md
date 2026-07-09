@@ -182,7 +182,7 @@ the API is documented in [`gears/README.md`](gears/README.md).
 
 ## Citation
 
-If you use GEARS, please cite:
+If you use GEARS, please consider citing :)
 
 ```bibtex
 @article{azim2026geometry,
